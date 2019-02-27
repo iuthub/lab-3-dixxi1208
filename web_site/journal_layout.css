@@ -1,0 +1,41 @@
+body{
+    background-image: url("images/background.gif");
+}
+.clr{
+	clear: both;
+}
+.wrapper{
+	border: 10px white solid;
+	background-color: white;
+	margin-left: 10%;
+    margin-right: 10%;
+    overflow: hidden;
+}
+
+.header{
+border: 4px #C2E9E9 solid;
+background-color: #C2E9E9;
+text-align: right;
+}
+
+.paragraph{
+border: 4px #C2E9E9 solid;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+overflow: hidden;
+}
+
+.paragraph .date{
+
+border-bottom: dashed 2px #C2E9E9 ;
+}
+
+.header > h2{
+font-size: 14px;
+}
+
+
+img{
+	float: right;
+}
